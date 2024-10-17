@@ -24,16 +24,11 @@
 
 ## 👨🏻‍💻 Author
 
-✔️ 👋 Hi, I’m @SnehKr .</br>
-✔️ 📧 E-Mail at :- snehkr.official@gmail.com </br>
+✔️ 👋 Hi, I’m [@SnehKr](https:://snehkr.in)</br>
+✔️ 📧 E-Mail at :- [Mail](mailto:snehkr.official@gmail.com) </br>
 ✔️ ☎ Contact me :- <a href="https://telegram.dog/snehkr">Telegram</a></br>
 
 </br>
-
-<h4 align="center">
-  © Quantitative Aptitude </br>
-  ALL RIGHTS RESERVED
-</h4>
 
 <p align="center">
   HAPPY 😊 LEARNING !!</br>
