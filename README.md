@@ -18,7 +18,7 @@
 
 **1. Time and Work:**
 
-- [README.md]("Time.and.Work/README.md")
+- [README.md](Time.and.Work/README.md)
 
 <a name="author"></a>
 
