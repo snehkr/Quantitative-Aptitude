@@ -18,7 +18,8 @@
 
 **1. Time and Work:**
 
-- [README.md](Time.and.Work/README.md)
+- [READ CONCEPTS & FORMULAS](Time.and.Work/README.md)
+- [QUESTIONS WITH SOLUTIONS](Time.and.Work/Question.md)
 
 <a name="author"></a>
 
