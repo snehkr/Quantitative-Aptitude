@@ -2,6 +2,10 @@
 <h3>Aptitude Concepts and Formulas</h3>
 </div><br>
 
+## [ ❓ Click Here for Questions](Question.md)
+
+## 📖 CONCEPTS
+
 - If a man can do a piece of work in n days, work done by him in one day = `(1/n)` part of total work or he will finish `(1/n)th` work in one day.
 
 - If a man completes `(1/n)th` work in one day, he will complete the entire work in n days.
@@ -65,3 +69,10 @@
     `E1D1 = E2D2`
 
   - More men will take fewer days and fewer men will take more days to complete a given work.
+
+</br>
+
+<p align="center">
+  HAPPY 😊 LEARNING !!</br>
+  DEVELOPED WITH ❤️ BY SNEH KR 
+</p>

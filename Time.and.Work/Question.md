@@ -63,3 +63,10 @@
 ![Time.and.Work](img/image-29.png)
 
 ![Time.and.Work](img/image-30.png)
+
+</br>
+
+<p align="center">
+  HAPPY 😊 LEARNING !!</br>
+  DEVELOPED WITH ❤️ BY SNEH KR 
+</p>
