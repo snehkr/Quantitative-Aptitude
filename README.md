@@ -8,6 +8,7 @@
 
   - [Time & Work](#i-1)
   - [Number](#i-2)
+  - [Average](#i-3)
 
 - [**👨🏻‍💻 Author**](#author)
 
@@ -28,6 +29,13 @@
 
 - [Read Concepts & Formulas](Number/README.md)
 - [Questions with Sol.](Number/Question.md)
+
+<a name="i-3"></a>
+
+**3. Average:**
+
+- [Read Concepts & Formulas](Average/README.md)
+- [Questions with Sol.](Average/Question.md)
 
 <a name="author"></a>
 
