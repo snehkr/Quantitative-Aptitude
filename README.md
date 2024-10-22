@@ -6,24 +6,32 @@
 
 - [**📑 Contents**](#contents)
 
-  - [Time and Work](#i-1)
+  - [Time & Work](#i-1)
+  - [Number](#i-2)
 
 - [**👨🏻‍💻 Author**](#author)
 
 <a name="contents"></a>
 
-## 📑 Contents
+## **📑 Contents**
 
 <a name="i-1"></a>
 
 **1. Time and Work:**
 
-- [READ CONCEPTS & FORMULAS](Time.and.Work/README.md)
-- [QUESTIONS WITH SOLUTIONS](Time.and.Work/Question.md)
+- [Read Concepts & Formulas](Time.and.Work/README.md)
+- [Questions with Sol.](Time.and.Work/Question.md)
+
+<a name="i-2"></a>
+
+**2. Number:**
+
+- [Read Concepts & Formulas](Number/README.md)
+- [Questions with Sol.](Number/Question.md)
 
 <a name="author"></a>
 
-## 👨🏻‍💻 Author
+## **👨🏻‍💻 Author**
 
 ✔️ 👋 Hi, I’m [@SnehKr](https:://snehkr.in)</br>
 ✔️ 📧 E-Mail at :- [Mail](mailto:snehkr.official@gmail.com) </br>
